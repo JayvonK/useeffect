@@ -1,0 +1,284 @@
+{ 
+    "Digimon":[
+    {
+      "id": 1,
+      "name": "Agumon",
+      "img": "https://digimon.shadowsmith.com/img/agumon.jpg",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Vaccine",
+      "description": "Agumon is a small dinosaur-like Digimon. Its name is derived from 'Agurabana', the Japanese onomatopoeia for the rumbling noise of a stomach.",
+      "abilities": [
+        "Pepper Breath",
+        "Claw Attack",
+        "Spitfire Blast"
+      ],
+      "evolutions": [
+        {
+          "name": "Greymon",
+          "level": "Champion"
+        },
+        {
+          "name": "MetalGreymon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "WarGreymon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gabumon",
+      "img":"https://digimon.shadowsmith.com/img/gabumon.jpg",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Data",
+      "description": "Gabumon is a Reptile Digimon. Although it is covered by a fur pelt, it is still clearly a Reptile Digimon. ",
+      "abilities": [
+        "Blue Blaster",
+        "Horn Attack",
+        "Hidden Punch"
+      ],
+      "evolutions": [
+        {
+          "name": "Garurumon",
+          "level": "Champion"
+        },
+        {
+          "name": "WereGarurumon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "MetalGarurumon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Patamon",
+      "img":"https://digimon.shadowsmith.com/img/patamon.jpg",
+      "level": "Rookie",
+      "type": "Mammal",
+      "attribute": "Vaccine",
+      "description": "Patamon is an Angel Digimon. It has the appearance of a small flying mammal.",
+      "abilities": [
+        "Boom Bubble",
+        "Air Shot",
+        "Breeze Blaster"
+      ],
+      "evolutions": [
+        {
+          "name": "Angemon",
+          "level": "Champion"
+        },
+        {
+          "name": "MagnaAngemon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Seraphimon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tentomon",
+      "img":"https://digimon.shadowsmith.com/img/tentomon.jpg",
+      "level": "Rookie",
+      "type": "Insectoid",
+      "attribute": "Data",
+      "description": "Tentomon is an Insectoid Digimon. It is an insect type Digimon characterized by the big horns growing from both sides of its head.",
+      "abilities": [
+        "Super Shocker",
+        "Talon Attack",
+        "Kabuterimon"
+      ],
+      "evolutions": [
+        {
+          "name": "Kabuterimon",
+          "level": "Champion"
+        },
+        {
+          "name": "MegaKabuterimon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "HerculesKabuterimon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gomamon",
+      "img":"https://digimon.shadowsmith.com/img/gomamon.jpg",
+      "level": "Rookie",
+      "type": "Aquatic",
+      "attribute": "Vaccine",
+      "description": "Gomamon is a Sea Animal Digimon. Its name comes from 'Goma', a type of Japanese rice cake.",
+      "abilities": [
+        "Marching Fishes",
+        "Fish Power",
+        "Marching Fishes"
+      ],
+      "evolutions": [
+        {
+          "name": "Ikkakumon",
+          "level": "Champion"
+        },
+        {
+          "name": "Zudomon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Vikemon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Palmon",
+      "img":"https://digimon.shadowsmith.com/img/palmon.jpg",
+      "level": "Rookie",
+      "type": "Vegetation",
+      "attribute": "Data",
+      "description": "Palmon is a Plant Digimon. It has a tropical flower blooming on its head.",
+      "abilities": [
+        "Poison Ivy",
+        "Root Bind",
+        "Plant Shock"
+      ],
+      "evolutions": [
+        {
+          "name": "Togemon",
+          "level": "Champion"
+        },
+        {
+          "name": "Lillymon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Rosemon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Biyomon",
+      "img":"https://digimon.shadowsmith.com/img/biyomon.jpg",
+      "level": "Rookie",
+      "type": "Bird",
+      "attribute": "Vaccine",
+      "description": "Biyomon is a Bird Digimon. It is known as the 'Fireball Monster'.",
+      "abilities": [
+        "Spiral Twister",
+        "Meteor Wing",
+        "Biyomon Charge"
+      ],
+      "evolutions": [
+        {
+          "name": "Birdramon",
+          "level": "Champion"
+        },
+        {
+          "name": "Garudamon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Phoenixmon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Tsunomon",
+      "img":"https://digimon.shadowsmith.com/img/tsunomon.jpg",
+      "level": "Rookie",
+      "type": "Lesser",
+      "attribute": "Data",
+      "description": "Tsunomon is a Lesser Digimon. It has the appearance of a pink furball with a horn.",
+      "abilities": [
+        "Bubble Blow",
+        "Bubble Bomb",
+        "Tsunomon Horn"
+      ],
+      "evolutions": [
+        {
+          "name": "Gabumon",
+          "level": "Champion"
+        },
+        {
+          "name": "Gabumon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Gabumon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gazimon",
+      "img":"https://digimon.shadowsmith.com/img/gazimon.jpg",
+      "level": "Rookie",
+      "type": "Demon",
+      "attribute": "Virus",
+      "description": "Gazimon is a Demon Digimon. It is an evil Digimon that dwells in the darkness of the net.",
+      "abilities": [
+        "Electric Stun Blast",
+        "Gazi Punch",
+        "Lightning Claw"
+      ],
+      "evolutions": [
+        {
+          "name": "DarkTyranomon",
+          "level": "Champion"
+        },
+        {
+          "name": "Ankylomon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "Mammothmon",
+          "level": "Mega"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Demidevimon",
+      "img":"https://digimon.shadowsmith.com/img/demidevimon.jpg",
+      "level": "Rookie",
+      "type": "Evil",
+      "attribute": "Virus",
+      "description": "Demidevimon is an Evil Digimon. It is a dark Digimon with a mischievous personality.",
+      "abilities": [
+        "DemiDart",
+        "Evil Whisper",
+        "DemiDart Rain"
+      ],
+      "evolutions": [
+        {
+          "name": "Devimon",
+          "level": "Champion"
+        },
+        {
+          "name": "Myotismon",
+          "level": "Ultimate"
+        },
+        {
+          "name": "VenomMyotismon",
+          "level": "Mega"
+        }
+      ]
+    }
+  ]}
+  
